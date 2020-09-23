@@ -1,6 +1,6 @@
 # complexPyTorch
 
-A high-level toolbox for using complex valued neural networks in PyTorch.
+A high-level toolbox for using complex valued neural networks in PyTorch.(Memory leak at batchnorm solved version)
 
 ## Complex Valued Networks with PyTorch
 
